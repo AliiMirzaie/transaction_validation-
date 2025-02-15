@@ -3,4 +3,4 @@ validating transaction receipts and extract information . chat with your receipt
 
 
 
-![Performance Screenshot](Screenshot 1403-11-27 at 09.23.36.png)
+
